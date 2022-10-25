@@ -1,0 +1,7 @@
+{
+  "name": "frase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
